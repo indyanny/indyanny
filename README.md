@@ -1,4 +1,4 @@
-# Sou Indy
+# Olá!!! Sou Indy...
 Graduando em Engenharia da Computação.  Toda  ajuda em programação (de variados tipos) será muito bem-vinda.
 "Sempre aprendendo, evoluindo, superando desafios."
 
