@@ -19,6 +19,7 @@ Graduando em Engenharia da Computação.  Toda  ajuda em programação (de varia
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indyanny&theme=transparent&bg_color=811&border_color=811&show_icons=true&icon_color=E94D&title_color=FFF&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=indyanny&bg_color=811&border_color=811&title_color=FFF&text_color=FFF)
 
 ## GitHub Streak Stats
