@@ -4,7 +4,7 @@ Graduando em Engenharia da Computação em busca de conhecimento constante.  Tod
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-811?style=for-the-badge&logo=instagram)](https://www.instagram.com/sou_indy/?hl=en)
-[![Linkedin](https://img.shields.io/badge/Linkedin-811?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indyanny-rodrigues-peixinho-b528401b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-811?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indyanny-rodrigues-peixinho-b528401b7/)
 
 ## Desenvolvendo conhecimentos em:
 <img align="center" alt="indyanny-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="indyanny-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
