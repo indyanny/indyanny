@@ -1,10 +1,11 @@
-# Olá!!! Sou Indy...
-Graduando em Engenharia da Computação em busca de conhecimento constante.  Toda  ajuda em programação (de variados tipos) será muito bem-vinda.
-"Sempre aprendendo, evoluindo, superando desafios."
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=811&height=120&section=header"/>
 
-## Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/Instagram-811?style=for-the-badge&logo=instagram)](https://www.instagram.com/sou_indy/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-811?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indyanny-rodrigues-peixinho-b528401b7/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=811&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Indyanny;I'm+36+years+old;I+from+Brasil,+ES;I+study+Engenharia+da+Computação;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=indyanny&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=811" alt="Github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indyanny&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=811" />
+</div>
 
 ## Desenvolvendo conhecimentos em:
 <img align="center" alt="indyanny-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="indyanny-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -17,11 +18,10 @@ Graduando em Engenharia da Computação em busca de conhecimento constante.  Tod
 <img align="center" alt="indyanny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="indyanny-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indyanny&theme=transparent&bg_color=811&border_color=811&show_icons=true&icon_color=E94D&title_color=FFF&text_color=FFF)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{indyanny}/count.svg" /></p> 
+<br></div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=indyanny&bg_color=811&border_color=811&title_color=FFF&text_color=FFF)
-
-## GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=indyanny&theme=dark&background=811&border=811&dates=FFF)](https://git.io/streak-stats)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=811&height=120&section=footer"/>****
 
