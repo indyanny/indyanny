@@ -18,10 +18,5 @@
 <img align="center" alt="indyanny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="indyanny-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{indyanny}/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=811&height=120&section=footer"/>****
 
