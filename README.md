@@ -20,7 +20,7 @@
 <img align="center" alt="indyanny-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="indyanny-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
-##S.O:
+## S.O:
 microsoft windows | kali linux
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=811&height=120&section=footer"/>****
